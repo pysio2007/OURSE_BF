@@ -1,0 +1,8 @@
+[common]
+bind_port = 7000
+
+dashboard_port = 7500
+
+dashboard_user = Pysio
+
+dashboard_pwd = bb80901030
