@@ -1,0 +1,1 @@
+[{"proxyname": "lts", "sitename": "lts.pysio.online", "proxydir": "/", "proxysite": "http://127.0.0.1:9090", "todomain": "$host", "type": 1, "cache": 0, "subfilter": [{"sub1": "", "sub2": ""}, {"sub1": "", "sub2": ""}, {"sub1": "", "sub2": ""}], "advanced": 1, "cachetime": 1}]
